@@ -1,4 +1,4 @@
-# Xddos
+# DdosX
 ![Xdorking preview](DdosX.png)
 
 ## introduction
